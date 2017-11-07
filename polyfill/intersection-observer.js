@@ -722,3 +722,5 @@ window.IntersectionObserver = IntersectionObserver;
 window.IntersectionObserverEntry = IntersectionObserverEntry;
 
 }(window, document));
+export default IntersectionObserver;
+
